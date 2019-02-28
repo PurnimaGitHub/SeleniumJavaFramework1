@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="42804" started-at="2018-11-27T17:25:40Z" finished-at="2018-11-27T17:26:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="42804" started-at="2018-11-27T17:25:40Z" finished-at="2018-11-27T17:26:23Z">
+      <class name="TestPackage.SelectProjectPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestPackage.SelectProjectPage@57536d79]" name="setUp" is-config="true" duration-ms="17016" started-at="2018-11-27T17:25:40Z" finished-at="2018-11-27T17:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyValidLogin()[pri:0, instance:TestPackage.SelectProjectPage@57536d79]" name="verifyValidLogin" duration-ms="2763" started-at="2018-11-27T17:25:57Z" finished-at="2018-11-27T17:26:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyValidLogin -->
+        <test-method status="PASS" signature="createProject()[pri:1, instance:TestPackage.SelectProjectPage@57536d79]" name="createProject" duration-ms="22985" started-at="2018-11-27T17:26:00Z" finished-at="2018-11-27T17:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+      </class> <!-- TestPackage.SelectProjectPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
